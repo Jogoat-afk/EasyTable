@@ -1,7 +1,3 @@
-Ecco una possibile struttura per il file `README.md` per EasyTable:
-
----
-
 # EasyTable – L’App di Gestione Intelligente per Ristoratori
 
 ## Descrizione
@@ -9,6 +5,20 @@ EasyTable è un'app progettata per ottimizzare la gestione dei ristoranti, offre
 
 ## Tagline
 *“Semplifica la gestione, massimizza il servizio”*
+
+## Problemi da risolvere
+
+La gestione dei ristoranti presenta sfide logistiche e operative che possono impattare negativamente sull'efficienza e sull’esperienza dei clienti. I problemi principali includono:
+
+Ordini Confusi e Ritardi: La comunicazione tra sala e cucina può essere caotica, specialmente nei momenti di picco, causando errori negli ordini e rallentamenti nel servizio.
+
+Prenotazioni e Tavoli Mal Gestiti: Senza una gestione ottimizzata dei tavoli, i ristoranti rischiano di avere tempi d'attesa elevati per i clienti, sprechi di posti e insoddisfazione generale.
+
+Previsioni della Domanda e Preparazione Inefficiente: La difficoltà nel prevedere l’afflusso di clienti rende complicato pianificare l’approvvigionamento di risorse e il personale, portando a sprechi o mancanza di prodotti.
+
+Feedback Cliente Non Strutturato: Raccogliere e analizzare il feedback dei clienti in modo efficace è essenziale per migliorare il servizio, ma spesso i ristoranti non hanno un sistema ben organizzato per farlo.
+
+Comunicazione Interna Limitata: Il personale di sala e cucina necessita di un sistema rapido e affidabile per scambiarsi informazioni e aggiornamenti, ma spesso questo avviene in modo disorganizzato o tramite sistemi obsoleti.
 
 ## Competitor
 - **Quandoo**: piattaforma di prenotazione focalizzata sulle riserve dei tavoli, con funzioni limitate di gestione interna.
@@ -36,6 +46,6 @@ EasyTable è un'app progettata per ottimizzare la gestione dei ristoranti, offre
 3. **Notifiche e Avvisi**: Sistema di notifiche per informare i clienti e il personale di modifiche o aggiornamenti degli ordini.
 4. **Analisi Statistica**: Generazione di report sulle vendite e sull’efficienza del servizio per supportare le decisioni gestionali.
 
---- 
+## Diagramma UML
+(https://github.com/user-attachments/assets/04866ce9-12fb-437a-b8e1-dc6a6bcd8f31)
 
-Questo README offre una panoramica chiara del progetto e dei suoi requisiti, utile per sviluppatori, stakeholder e potenziali collaboratori.
