@@ -50,7 +50,7 @@ Comunicazione Interna Limitata: Il personale di sala e cucina necessita di un si
 (https://github.com/user-attachments/assets/04866ce9-12fb-437a-b8e1-dc6a6bcd8f31)
 
  
-**[Inizio Pitch]**
+## PITCH
 
 Immaginate di poter semplificare ogni aspetto della gestione del vostro ristorante, ottimizzando ordini, tavoli e personale con un'unica app intuitiva. **EasyTable** è la soluzione che permette ai ristoratori di eliminare gli errori nella gestione degli ordini, migliorare l'organizzazione delle prenotazioni e prevedere la domanda dei clienti con precisione. 
 
@@ -62,7 +62,7 @@ In un settore competitivo come quello della ristorazione, **EasyTable** offre ai
 
 **Semplifica la gestione, massimizza il servizio e i profitti con EasyTable.**
 
-**[Fine Pitch]**
+
 
 
 
