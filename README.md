@@ -49,3 +49,21 @@ Comunicazione Interna Limitata: Il personale di sala e cucina necessita di un si
 ## Diagramma UML
 (https://github.com/user-attachments/assets/04866ce9-12fb-437a-b8e1-dc6a6bcd8f31)
 
+ 
+**[Inizio Pitch]**
+
+Immaginate di poter semplificare ogni aspetto della gestione del vostro ristorante, ottimizzando ordini, tavoli e personale con un'unica app intuitiva. **EasyTable** è la soluzione che permette ai ristoratori di eliminare gli errori nella gestione degli ordini, migliorare l'organizzazione delle prenotazioni e prevedere la domanda dei clienti con precisione. 
+
+Grazie alla gestione degli ordini in tempo reale, lo staff di sala e cucina può coordinarsi senza errori o ritardi, offrendo un servizio impeccabile anche nei momenti di picco. La nostra funzione di ottimizzazione delle prenotazioni riduce i tempi di attesa, aumentando la rotazione dei tavoli e, quindi, il numero di coperti serviti. Infine, con strumenti di analisi avanzati, EasyTable consente di prevedere la domanda, così da pianificare al meglio risorse e personale, riducendo sprechi e costi operativi.
+
+**Ecco come EasyTable aumenta i guadagni**: ottimizzando la gestione dei tavoli, è possibile massimizzare la capacità del ristorante, incrementando il flusso di clienti nelle ore di punta. La previsione della domanda permette di adeguare gli ordini e ridurre i costi del personale, adattando le risorse alle esigenze reali. In poche parole, meno errori e più efficienza si traducono in maggiori profitti e un ritorno diretto sull’investimento.
+
+In un settore competitivo come quello della ristorazione, **EasyTable** offre ai ristoratori la possibilità di migliorare efficienza e qualità del servizio, creando esperienze memorabili per i clienti e incrementando il profitto netto.
+
+**Semplifica la gestione, massimizza il servizio e i profitti con EasyTable.**
+
+**[Fine Pitch]**
+
+
+
+
